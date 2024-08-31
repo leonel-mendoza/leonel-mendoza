@@ -1,9 +1,17 @@
-# Hi 👋, Leonel is there. 
-## Welcome to some of my bytes on the Internet.
+# Hi 👋! Welcome to Leonel's bytes on the Internet.
 
+## What I am?
 I'm currently a graphic design student and a self-learned programmer.
 
-## Technologies and languages.
+## What technologies I use?
+### Programs:
+
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
+### Programming Languages:
+
+
+### Utilities
 
 
 # Rivers of contact.
