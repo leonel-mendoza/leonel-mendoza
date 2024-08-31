@@ -1,4 +1,9 @@
-## Hi 👋 Welcome to one of my bytes on the Internet.
+# Hi 👋, Leonel is there. 
+## Welcome to one of my bytes on the Internet.
+
+I'm currently a graphic design student and a self-learned programmer.
+
+## Technologies and Languages I'm Learning
 
 <!--
 **leonel-mendoza/leonel-mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
