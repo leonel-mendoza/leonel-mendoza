@@ -1,9 +1,14 @@
 # Hi 👋, Leonel is there. 
-## Welcome to one of my bytes on the Internet.
+## Welcome to some of my bytes on the Internet.
 
 I'm currently a graphic design student and a self-learned programmer.
 
-## Technologies and Languages I'm Learning
+## Technologies and languages.
+
+
+# Rivers of contact.
+
+* Discord: leonel_agustin_mendoza
 
 <!--
 **leonel-mendoza/leonel-mendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
