@@ -1,11 +1,11 @@
 # Hi 👋! Welcome to Leonel's bytes on the Internet.
 
-## Who am I?
+## Who am I? 👤
 I'm a graphic design student and a self-learned programmer.
 
 --- 
 
-## What technologies I use?
+## What technologies I use? ⚙️
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -19,7 +19,7 @@ I'm a graphic design student and a self-learned programmer.
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 ---
-## Rivers of contact.
+## Rivers of contact. 📫
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
