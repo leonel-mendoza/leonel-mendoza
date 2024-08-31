@@ -1,7 +1,7 @@
 # Hello 👋! Welcome to Leonel's bytes on the Internet.
 
 ## Who am I? 👤
-I'm a graphic design student and a self-learned programmer.
+I'm a graphic design student and self-taught web designer.
 
 --- 
 
